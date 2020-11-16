@@ -9,6 +9,7 @@ import { NavComponent } from './nav/nav.component';
 import { FormComponent } from './form/form.component';
 import { NotFoundComponent } from './not-found/not-found.component';
 import { AboutComponent } from './about/about.component';
+import { DatePipe } from './date.pipe';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { AboutComponent } from './about/about.component';
     NavComponent,
     FormComponent,
     NotFoundComponent,
-    AboutComponent
+    AboutComponent,
+    DatePipe
   ],
   imports: [
     BrowserModule,
