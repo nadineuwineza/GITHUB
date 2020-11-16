@@ -1,5 +1,31 @@
 # Github
 
+### Done by UWINEZA NADINE
+email:nadineuwineza2017@gmail.com 
+## Description
+
+This is an application which display user Github informations, where users may enter a GitHub username into a form, search it, and see names and descriptions of that person's public repositories.
+
+## Setup/Installation Requirements
+There are no installation requirments needed with your web browser you can be abe to access the site.
+
+## Technologies Used
+ * HTML 
+ * CSS Javascript and Typescript
+ * bootstrap
+ * Angular CLI 
+ 
+
+ In case you have any issue on this project feel free to reach out to me (nadineuwineza2017@gmail.com). Also feel free to make contribtion to the code.
+
+ ## link 
+ https://github.com/nadineuwineza/GITHUB.git
+
+## LICENCE
+
+ MIT licence
+ copyright(c) 2020 Uwineza Nadine
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
 ## Development server
